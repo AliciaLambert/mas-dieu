@@ -9,13 +9,15 @@ Cette forme de société exige deux associés minimum au moment de la création.
 
 ## Les 3 étapes de création d'une SCI
 
-· Statuts
+· __Statuts__
 
-· Publication dans un journal d'annonces légales
+· __Publication dans un journal d'annonces légales__
+
 La SCI doit publier dans un journal d'annonces légales les principales informations la concernant, 
 à savoir sa dénomination sociale, son capital social, l'identité de son gérant, etc. 
 
-· Inscription au Tribunal de commerce 
+· __Inscription au Tribunal de commerce__
+
 L'inscription au Tribunal de commerce
 Le tribunal de commerce inscrit la SCI au Registre du commerce et des sociétés. 
 Pour ce faire, la SCI doit avoir réalisé les démarches précédentes. 
