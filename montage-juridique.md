@@ -47,3 +47,18 @@ Pôle de recherche appliquée sur l'alimentation et mise en place de l'autonomie
 - culture de graines anciennes, de spiruline...
 - zone gastronomie 
 
+
+
+# Logements
+
+Question des logements dans chaque SCI
+
+# Centre de formation
+
+Se renseigner sur la possibilité de monter une formation sur les low tech même si elle n'est pas diplomante ?
+
+Comment monter un centre de formation ?
+
+Dossier de subvention, veille
+
+Formation à destination des plus jeunes, des personnes en situation de handicap...

@@ -16,7 +16,7 @@ _Discussion d'une demi-journée à prévoir (envoyer un mail en amont pour laiss
   - accès à l'eau, à internet...
   - quelles dispositions constructives ?
 - Même travail pour les bureaux, les sanitaires, création d'un espace "pause café" ?
-- Important de prévoir les coûts pour la future demande de prêt => Olivier, prix pour les murs, le bureau, avec et sans isolation
+- Important de prévoir les coûts pour la future demande de prêt => Olivier, prix pour les murs, le bureau, avec et sans isolation / Mathilde Barbier
 
 ## 2. Représenter l'espace en taille réelle
 
